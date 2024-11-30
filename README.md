@@ -13,13 +13,13 @@
 
 </div>
 
-# 🙋Hi there.👋
+# 👋 Hello world.  🙋 你好，世界。
 
 <table>
   
 <tr><td>
   
-## 🤺 About Me
+## [🌐 About Me](https://dreammstill.github.io/)
 
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/77729084?s=400&u=54a61e7f5ce259276c9045582a2e78258fb30907&v=4" />
 
