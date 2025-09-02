@@ -44,12 +44,12 @@
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=DreammStill&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
 </p>
-
-<p align="center">
+<!--
+<p align="center"> -->
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
     <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=DreammStill&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="profile trophy" title="profile trophy"/>
-</p>
+    <!-- <img width="800" src="https://github-profile-trophy.vercel.app/?username=DreammStill&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="profile trophy" title="profile trophy"/>
+</p> -->
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
     <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=java,cpp,python,htmx,md,nodejs,vuejs,vscode,visualstudio,idea,photoshop,vmwareworkstation,edge,windows,ubuntu,&titles=true" alt="skill icons" title="skill icons">
